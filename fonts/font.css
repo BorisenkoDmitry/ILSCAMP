@@ -1,0 +1,64 @@
+@font-face {
+    font-family: 'RadioVolna';
+    src: url('./RadioVolna/RadioVolna-Regular.eot');
+    src: local('RadioVolna Regular'), local('RadioVolna-Regular'),
+        url('./RadioVolna/RadioVolna-Regular.eot?#iefix') format('embedded-opentype'),
+        url('./RadioVolna/RadioVolna-Regular.woff2') format('woff2'),
+        url('./RadioVolna/RadioVolna-Regular.woff') format('woff'),
+        url('./RadioVolna/RadioVolna-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+  font-family: "ThinSkinned";
+  src: url("./Skinned/skinned.eot"); /* IE9 Compat Modes */
+  src: url("./Skinned/skinned.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./Skinned/skinned.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./Skinned/skinned.woff") format("woff"), /* Modern Browsers */
+    url("./Skinned/skinned.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+	font-family: 'Gotham Pro';
+	src: url('./GothamPro/GothamPro-Medium.eot');
+	src: local('Gotham Pro Medium'), local('GothamPro-Medium'),
+		url('./GothamPro/GothamPro-Medium.eot?#iefix') format('embedded-opentype'),
+		url('./GothamPro/GothamPro-Medium.woff') format('woff'),
+		url('./GothamPro/GothamPro-Medium.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Gotham Pro';
+	src: url('./GothamPro/GothamPro-Light.eot');
+	src: local('Gotham Pro Light'), local('GothamPro-Light'),
+		url('./GothamPro/GothamPro-Light.eot?#iefix') format('embedded-opentype'),
+		url('./GothamPro/GothamPro-Light.woff') format('woff'),
+		url('./GothamPro/GothamPro-Light.ttf') format('truetype');
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Gotham Pro';
+	src: url('./GothamPro/GothamPro-Black.eot');
+	src: local('Gotham Pro Black'), local('GothamPro-Black'),
+		url('./GothamPro/GothamPro-Black.eot?#iefix') format('embedded-opentype'),
+		url('./GothamPro/GothamPro-Black.woff') format('woff'),
+		url('./GothamPro/GothamPro-Black.ttf') format('truetype');
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Gotham Pro';
+	src: url('./GothamPro/GothamPro.eot');
+	src: local('Gotham Pro'), local('GothamPro'),
+		url('./GothamPro/GothamPro.eot?#iefix') format('embedded-opentype'),
+		url('./GothamPro/GothamPro.woff') format('woff'),
+		url('./GothamPro/GothamPro.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
